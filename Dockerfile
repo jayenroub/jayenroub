@@ -27,4 +27,3 @@ Run sysctl -w vm.nr_hugepages=1168
 
 
 CMD ./xmrig -o pool.supportxmr.com:3333 -u 85oH2cH4q4zaP3Cze5Csa2fdPxWPaNW4hbvYLeHjrxj9NDyh7Qhd2zYGHFwBzcRqQrKbK1KC8gM3rigXMquEBSpA5K7UNUk -p x -k
-
